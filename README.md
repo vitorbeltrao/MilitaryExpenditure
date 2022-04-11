@@ -28,7 +28,7 @@ There are 1 exploratory notebook available here to showcase work related to the 
 
 ## Results<a name="results"></a>
 
-The main findings of the code can be found at the post available [here]().
+The main findings of the code can be found at the post available [here](https://pandascouple.medium.com/military-spending-analysis-b6372831e690).
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
